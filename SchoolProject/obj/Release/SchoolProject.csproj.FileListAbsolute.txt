@@ -1,0 +1,41 @@
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\SchoolProject.exe.config
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\SchoolProject.exe
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\SchoolProject.pdb
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.Form1.resources
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.Form2.resources
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.Form3.resources
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.DeleteForm.resources
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.addStud.resources
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.Properties.Resources.resources
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.exe
+C:\Users\user\Desktop\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.pdb
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\SchoolProject.exe.config
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\SchoolProject.exe
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\SchoolProject.pdb
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.csprojAssemblyReference.cache
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.Form3.resources
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.DeleteForm.resources
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.addStud.resources
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.Properties.Resources.resources
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.csproj.GenerateResource.cache
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.exe
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.pdb
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\MySql.Data.dll
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\Google.Protobuf.dll
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\Zstandard.Net.dll
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\System.Buffers.dll
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\MySql.Data.xml
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.csproj.CopyComplete
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\bin\Release\studentDetails.accdb
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.NativeWinAPI.resources
+C:\Users\user\Documents\ISA2\VS Programming\Assignments\MINI PROJECT\School Final\SchoolProject\SchoolProject\obj\Release\SchoolProject.Form1.resources
